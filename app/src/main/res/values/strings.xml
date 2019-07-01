@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccountFacebook</string>
+    <string name="textView_loginFacebook">Login with</string>
+    <string name="facebook_app_id">926074604405463</string>
+    <string name="fb_login_protocol_scheme">fb926074604405463</string>
+    <string name="button_logout">Log Out</string>
+</resources>
